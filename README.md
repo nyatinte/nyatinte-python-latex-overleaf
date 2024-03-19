@@ -30,6 +30,13 @@ git clone https://github.com/yourusername/python-latex-overleaf-github-devcontai
 4. Overleafと接続します。
    - Overleaf Workshopの指示に従って、cookieを使ってOverleafにログインします。
    - 対象のOverleafプロジェクトを任意のディレクトリに反映させます。
+   
+   Cookieの取得方法:
+   ```
+   ブラウザでOverleafにログインし、開発者ツール > ネットワーク > (適当なリクエスト) > ヘッダー > Cookie、もしくはSet-Cookieの一部をコピーします。
+
+   ```
+
 
 5. LaTeXドキュメントを編集します。
    - `main.tex`ファイルを編集し、必要に応じて追加のLaTeXファイルを作成します。
@@ -40,18 +47,11 @@ git clone https://github.com/yourusername/python-latex-overleaf-github-devcontai
 7. Overleafと同期します。
    - ローカルの変更が自動的にOverleafプロジェクトに同期されます。
 
-8. GitHubでバージョン管理します。
-   - 以下のコマンドを使用して、変更をコミットし、タグを付けて、GitHubにプッシュします。
-     ```
-     git add .
-     git commit -m "commit message"
-     git tag v0
-     git push --tags
-     ```
+8. Gitでバージョン管理します。Gitの説明については省略します。
 
 ## 連絡先
 
-質問やご意見は、以下の連絡先までお願いします。
+質問やご意見は、以下の連絡先までお願いします。Contributeも歓迎です。
 
 - takumi.062757@gmail.com (nyatinte)
 
