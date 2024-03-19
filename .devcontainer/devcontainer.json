@@ -18,7 +18,16 @@
         "ms-python.debugpy",
         "James-Yu.latex-workshop",
         "iamhyc.overleaf-workshop"
-      ]
+      ],
+      "settings": {
+        "latex-workshop.latex.recipe.default": "lastUsed",
+        "grammarly.files.include": [
+          "**/readme.md",
+          "**/README.md",
+          "**/*.txt",
+          "**/*.tex"
+        ]
+      }
     }
   }
 
