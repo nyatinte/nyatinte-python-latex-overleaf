@@ -17,7 +17,8 @@
         "ms-python.python",
         "ms-python.debugpy",
         "James-Yu.latex-workshop",
-        "iamhyc.overleaf-workshop"
+        "iamhyc.overleaf-workshop",
+        "ms-toolsai.jupyter"
       ],
       "settings": {
         "latex-workshop.latex.recipe.default": "lastUsed",
