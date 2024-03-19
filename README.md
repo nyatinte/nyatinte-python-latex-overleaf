@@ -6,6 +6,8 @@
 
 ## 使い方
 
+0. 手元にDocker環境があることが前提になります。頑張ってインストールしてください。 https://docs.docker.com/engine/install/
+
 1. このリポジトリをクローンします。
 ```
 git clone https://github.com/yourusername/python-latex-overleaf-github-devcontainer.git
