@@ -79,3 +79,7 @@ git clone https://github.com/yourusername/python-latex-overleaf-github-devcontai
 - ファイル名が`hoge.fuga`の場合、Overleaf上では`hoge.fuga.git`として反映される場合があります。
 
 これらの課題については、対処法を探る必要があります。
+
+## 参考
+
+- [Overleaf+VSCode+GitHub+etcな執筆環境を整える](https://yuta0306.github.io/overleaf-writing-on-local)https://yuta0306.github.io/overleaf-writing-on-local
